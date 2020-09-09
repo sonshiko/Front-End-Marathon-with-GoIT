@@ -1,0 +1,150 @@
+/* font-family: 'Montserrat', sans-serif; */
+body {
+  background-color: #f5f7fa;  
+  padding: 40px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+ul, ol {
+  padding-inline-start: 0px;
+  list-style-position: inside;
+}
+
+.wrapper {
+  background-color: #ffffff;
+  display: flex;
+}
+
+.sidebar {  
+  background-color: #1e2939;
+  width: 370px;
+  padding: 40px 0px;
+}
+
+.my-photo {
+  width: 370px;
+}
+
+.contacts-container {
+  padding: 60px 40px 0 40px;
+  margin-bottom: 55px;
+}
+
+.contacts-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.contacts-link {
+  color: #727983;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.contacts-link-type {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-right: 10px;
+}
+
+.tech-skills-container{
+    padding: 0px 40px;
+}
+
+.tech-skills-title{
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+
+.tech-skills-item {
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+color: #ff6b08;
+}
+
+.tech-skills-text {
+  color: #a9adb3;
+}
+
+.soft-skills-container{
+  padding: 0px 40px;
+}
+
+.soft-skills-title {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+}
+
+.about-me-container {
+  padding: 110px 90px;
+}
+
+.info-container {
+  margin-bottom: 65px;
+}
+
+.profession {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin: 0px 0px 20px 0px;
+}
+
+.name {
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 80px;
+  margin: 0px 0px 20px 0px;
+}
+
+.description {  
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.projects-container {
+  margin-bottom: 50px;
+}
+
+.projects-title {
+  color: #000000;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+
+.projects-item {
+  font-weight: 700;
+}
+
+.projects-links {
+  color: #595959;  
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.dots {
+  color: #d3d3d3;
+  font-weight: 400;
+}
+
+.work-experience {
+  margin-bottom: 50px;
+}
