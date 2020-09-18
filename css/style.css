@@ -22,6 +22,7 @@ ul, ol {
 /*----------------------*/
 .sidebar {  
   background-color: #1e2939;
+  min-width: 300px;
   width: 47%;
   padding: 40px 0px;
 }
