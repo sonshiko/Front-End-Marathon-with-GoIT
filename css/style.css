@@ -84,6 +84,7 @@ color: #ff6b08;
 /*-----------------------*/
 
 .about-me-container {
+  min-width: 600px;
   padding: 110px 90px;
 }
 
